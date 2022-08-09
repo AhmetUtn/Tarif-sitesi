@@ -1,0 +1,55 @@
+# Tarif-sitesi Kodları
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İzmir Bomba Tarifi </title>
+    <style>
+        body{
+            background-color: wheat;
+        }
+    </style>
+</head>
+<body>
+    <!-- header start -->
+    <header>
+        <h2>İzmir Bombası</h2>
+        <p>Meşhur izmir tatlısının bu gün nasıl yapıldığını <br> öğrenelim...</p>
+    </header>
+    <!-- header end -->
+
+    <!-- section start -->
+    <section style="display: flex ; align-items:center;">
+        <article>
+            <ul>
+                <h3>İzmir Bomba Tarifi İçin Malzemeler</h3>
+                <li>1 çay bardağı su </li>
+                <li>1 yemek kaşığı sıvıyağ</li>
+                <li>1 yemek kaşığı şeker</li>
+                <li>1 paket vanilya</li>
+                <li>1.5 su bardağı un</li>
+                <li>Sürülebilir çikolata</li>
+            </ul>
+        </article>
+        <article>
+            <ol>
+                <h3>İzmir Bomba Tarifi Nasıl Yapılır?</h3>
+                <li>Su, sıvı yağ, şeker ve vanilyayı bir kaba alıp karıştıralım.</li>
+                <li>Unu ilave edip güzelce yoğuralım ve 30dakika boyunca dinlendirelim.</li>
+                <li>Eşit parçalara bölüp merdane ile açalım.</li>
+                <li>Ortasına ekleyeceğimiz saralleyi kaşık yardımı ile yağlı kağıda dizip donduralım.</li>
+                <li>Donmuş saralleyi hamurun ortasına alıp etrafını güzelce kapatalım fazla kalan kısmı keselim. <br> Max derecede önceden ısıtılmış fırında 5-6 dakika pişirin.İlk defa yaptım biz çok beğendik 🤭</li>
+            </ol>
+        </article>
+    </section>
+    <!-- section end -->
+    <!-- footer start -->
+    <footer>
+        <h2>İzmir Bombası</h2>
+        <p>Meşhur izmir tatlısının bu gün nasıl yapıldığını <br> öğrenelim...</p>
+    </footer>
+    <!-- footer end -->
+</body>
+</html>
